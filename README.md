@@ -74,3 +74,7 @@ export default {
 ```
 import "./index.css";
 ```
+
+
+### install redux toolkit
+> npm i react-redux @reduxjs/toolkit

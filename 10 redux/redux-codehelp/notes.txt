@@ -1,0 +1,12 @@
+Action -> It is an object contains data about ( event+ payload )
+Reducer -> function to perform the logic
+Slice -> contains logic of each feature, with it's initial value and it's reducer functions
+Store -> source of truth, contains all states
+State -> data
+
+
+1. create store 
+2. wrap app with provider 
+3. create Slices features 
+4. add slice reducers to store 
+5. 
