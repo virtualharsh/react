@@ -4,7 +4,6 @@ import Product from './components/Product'
 import products from '../products.json'
 
 const App = () => {
-
     return (
         <div>
             <Cart />
